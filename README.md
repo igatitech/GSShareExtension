@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/igatitech/GSShareExtension/blob/master/LICENSE) 
+![Swift: 5.0.x](https://img.shields.io/badge/Swift-5.0.x-orange)
+
 # GSShareExtension
 
 The share extension allows users to share content like images, videos and text. Share extension has system provided User Interface. You can customize the UI if in case it is required.
